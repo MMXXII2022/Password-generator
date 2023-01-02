@@ -13,7 +13,6 @@ THIRD_L = rd.choice(LETTERS)
 FOURTH_L = rd.choice(LETTERS)
 SYMBOL1 = rd.choice(SYMBOL)
 SYMBOL2 = rd.choice(SYMBOL)
-
 pwd = str(FIRST) + str(SECOND) + str(SYMBOL1) + str(THIRD) + str(FIRST_L) + str(SECOND_L) + str(SYMBOL2) + str(FOURTH) + THIRD_L + FOURTH_L
 
 
