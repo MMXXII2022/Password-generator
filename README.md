@@ -5,7 +5,7 @@ this password generator makes you a 10 char long password containing symbols, nu
 
 download links:
 [Pwd_gen.zip](https://github.com/MMXXII2022/Password-generator/files/10318278/Pwd_gen.zip) <br>
-(Download the Exe file directly from the repository, exe file is too big to be included here {5.926mb}
+(Download the Exe file directly from the repository, exe file is too big to be included here (5.926mb) )
 
 ## BASIC INTERACTIONS
 
